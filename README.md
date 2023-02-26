@@ -1,1 +1,5 @@
 My first readme
+
+HELLO EVERYONE
+
+ALX WE ARE HERE !
